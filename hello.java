@@ -1,4 +1,7 @@
-public class Dileep {
-    public statdsjvchjdvdvcvd
+public class GitHub {
+    public static void main(String args[])
+    {
+        System.out.println("Hello Worls\n");
+    }
 
 }
